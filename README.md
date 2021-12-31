@@ -4,8 +4,8 @@
 
 ```bash
 git clone https://github.com/ljvdhooft/vercel-express-framework.git
-mv /vercel-express-framework /new-name
-cd /new-name
+mv vercel-express-framework new-name
+cd new-name
 ```
 <br />
 <b>2. Install Node Packages for local use</b>
