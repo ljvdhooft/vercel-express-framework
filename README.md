@@ -33,9 +33,9 @@ nodemon index.js
 vercel deploy
 ```
 <br />
-Go to Settings > General > Build & Development Settings:
-For Output Directory, set override to "\`public\`"
-
+Go to Settings > General > Build & Development Settings:<br />
+For Output Directory, set override to "`public`"<br />
+<br />
 <b>5. Create Environment Variables as desired</b><br />
 Enjoy! Keep in mind that the vercel project isn't linked to the git repo. To deploy to vercel, use:
 
