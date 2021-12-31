@@ -4,7 +4,7 @@
 
 ```bash
 git clone https://github.com/ljvdhooft/vercel-express-framework.git
-mv /vercel-express-test /new-name
+mv /vercel-express-framework /new-name
 cd /new-name
 ```
 <br />
