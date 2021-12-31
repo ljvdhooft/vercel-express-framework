@@ -32,7 +32,6 @@ nodemon index.js
 ```bash
 vercel deploy
 ```
-<br />
 Go to Settings > General > Build & Development Settings:<br />
 For Output Directory, set override to "`public`"<br />
 <br />
